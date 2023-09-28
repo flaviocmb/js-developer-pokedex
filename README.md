@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Versão 1.0 - 22/07
+Versão 1.0 - 28/09
