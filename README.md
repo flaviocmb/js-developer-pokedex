@@ -1,5 +1,7 @@
 # Pokedex
 
+Github Pages - [https://flaviocmb.github.io/js-developer-pokedex](https://flaviocmb.github.io/js-developer-pokedex)
+
 Descrição:
 
 Consumindo a API da [PokeAPI](https://pokeapi.co/).
